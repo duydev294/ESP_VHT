@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

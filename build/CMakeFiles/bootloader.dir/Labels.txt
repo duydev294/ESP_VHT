@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/CMakeFiles/bootloader
+H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/CMakeFiles/bootloader.rule
+H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/CMakeFiles/bootloader-complete.rule
+H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

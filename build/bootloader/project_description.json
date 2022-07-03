@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "H:/Code/ESP32-IDF/espIdf/components/bootloader/subproject",
+    "build_dir":          "H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/build/bootloader",
+    "config_file":        "H:/Code/ESP32-IDF/espIdf/workspace/VHT_21_6_1/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "GIT-NOTFOUND",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "H:/Code/ESP32-IDF/espIdf/components/efuse/Kconfig;H:/Code/ESP32-IDF/espIdf/components/esp32/Kconfig;H:/Code/ESP32-IDF/espIdf/components/esp_common/Kconfig;H:/Code/ESP32-IDF/espIdf/components/esp_hw_support/Kconfig;H:/Code/ESP32-IDF/espIdf/components/esp_system/Kconfig;H:/Code/ESP32-IDF/espIdf/components/freertos/Kconfig;H:/Code/ESP32-IDF/espIdf/components/hal/Kconfig;H:/Code/ESP32-IDF/espIdf/components/log/Kconfig;H:/Code/ESP32-IDF/espIdf/components/newlib/Kconfig;H:/Code/ESP32-IDF/espIdf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "H:/Code/ESP32-IDF/espIdf/components/bootloader/Kconfig.projbuild;H:/Code/ESP32-IDF/espIdf/components/esp_rom/Kconfig.projbuild;H:/Code/ESP32-IDF/espIdf/components/esptool_py/Kconfig.projbuild;H:/Code/ESP32-IDF/espIdf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "H:/Code/ESP32-IDF/espIdf/components/bootloader", "H:/Code/ESP32-IDF/espIdf/components/bootloader_support", "H:/Code/ESP32-IDF/espIdf/components/efuse", "H:/Code/ESP32-IDF/espIdf/components/esp32", "H:/Code/ESP32-IDF/espIdf/components/esp_common", "H:/Code/ESP32-IDF/espIdf/components/esp_hw_support", "H:/Code/ESP32-IDF/espIdf/components/esp_rom", "H:/Code/ESP32-IDF/espIdf/components/esp_system", "H:/Code/ESP32-IDF/espIdf/components/esptool_py", "H:/Code/ESP32-IDF/espIdf/components/freertos", "H:/Code/ESP32-IDF/espIdf/components/hal", "H:/Code/ESP32-IDF/espIdf/components/log", "H:/Code/ESP32-IDF/espIdf/components/bootloader/subproject/main", "H:/Code/ESP32-IDF/espIdf/components/bootloader/subproject/components/micro-ecc", "H:/Code/ESP32-IDF/espIdf/components/newlib", "H:/Code/ESP32-IDF/espIdf/components/partition_table", "H:/Code/ESP32-IDF/espIdf/components/soc", "H:/Code/ESP32-IDF/espIdf/components/spi_flash", "H:/Code/ESP32-IDF/espIdf/components/xtensa", "" ]
+}
